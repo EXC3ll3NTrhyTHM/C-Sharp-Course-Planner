@@ -12,6 +12,8 @@ The project demonstrates:
 - xUnit tests
 - Docker support
 
+Demo working in Swagger:
+
 ![alt text](image.png)
 
 ---
