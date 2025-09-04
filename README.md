@@ -1,4 +1,4 @@
-# 📚 CoursePlanner API
+# CoursePlanner API
 
 A simple **ASP.NET Core Web API** project for managing students, courses, and enrollments.  
 The project demonstrates:
